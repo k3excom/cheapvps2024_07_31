@@ -4,7 +4,7 @@
 
 <h1 style="text-align: left;"><span style="color: #000000;"><strong>2024年7月依旧可以使用的Racknerd年付VPS优惠列表</strong></span></h1>
 <p style="text-align: left;">Racknerd是一个广受欢迎的VPS提供商，以高性价比和稳定的服务吸引了众多用户。</p>
-<p style="text-align: left;">便宜VPS,<a href="https://www.tvpps.com/category/meiguovps" target="_blank"><strong>美国VPS</strong></a>,服务器优惠,便宜美国VPS,洛杉矶VPS,年付VPS优惠</p>
+<p style="text-align: left;">便宜VPS,<a href="http://www.k3ex.com" target="_blank"><strong>美国VPS</strong></a>,服务器优惠,便宜美国VPS,洛杉矶VPS,年付VPS优惠</p>
 <p style="text-align: left;">小编目前就有几个2021年购买的便宜VPS年付机器在使用中,</p>
 <p style="text-align: left;"><span style="font-size: 12pt; color: #ff0000;"><strong>支持的付款方式: 大家经常使用的支付宝等</strong></span></p>
 <p style="text-align: left;"><strong>通过本文章相关的链接注册后购买VPS服务器小编可以获得<a href="https://my.racknerd.com/aff.php?aff=5534" target="_blank" rel="noopener">Racknerd官方网站</a>的aff奖励.</strong></p>
